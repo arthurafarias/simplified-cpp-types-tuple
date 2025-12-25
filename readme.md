@@ -2,6 +2,8 @@
 
 This project provides a simple implementation of a type-safe, recursive tuple-like container in C++. It demonstrates the use of template metaprogramming and recursive structures to simulate a tuple with custom behaviors.
 
+to build this project use [cxpm](https://github.com/arthurafarias/cxpm) package manager.
+
 ## Overview
 
 The `TupleContainer` and `Tuple` structures allow you to store different types in a sequence and access them in a type-safe manner. This implementation is inspired by tuples but uses recursive template structures to represent the different types. 
